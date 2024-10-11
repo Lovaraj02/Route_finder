@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Route_finder/static/css/main.5527d732.css",
+    "main.js": "/Route_finder/static/js/main.481b3e9d.js",
+    "static/js/453.5b300604.chunk.js": "/Route_finder/static/js/453.5b300604.chunk.js",
+    "static/media/logo.svg": "/Route_finder/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Route_finder/index.html",
+    "main.5527d732.css.map": "/Route_finder/static/css/main.5527d732.css.map",
+    "main.481b3e9d.js.map": "/Route_finder/static/js/main.481b3e9d.js.map",
+    "453.5b300604.chunk.js.map": "/Route_finder/static/js/453.5b300604.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5527d732.css",
+    "static/js/main.481b3e9d.js"
+  ]
+}
